@@ -9,4 +9,4 @@ This is the TL ecosystem. Every TL project you are going to find it here.
 - tlanims
 - etc...
 
-This organization will consist mostly with porejcts from TLeng3 tools/utils.
+This organization will consist mostly with projects from TLeng3 tools/utils.
